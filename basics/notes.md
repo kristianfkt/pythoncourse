@@ -1,4 +1,7 @@
 # Basics
+## Goal
+- Use python
+- Exposure to the standard library and some *pythonic* routines. 
 ## Contents
 - Numbers
 - Strings
